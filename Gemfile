@@ -3,6 +3,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem "rspec"
-gem "ci_reporter", :git => 'git://github.com/nicksieger/ci_reporter.git'
+gem "ci_reporter"
 gem "simplecov"
 gem "simplecov-csv"
